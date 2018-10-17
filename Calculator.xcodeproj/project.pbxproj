@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4524BAE121709693003582A0 /* soundBtn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4524BAE021709693003582A0 /* soundBtn.wav */; };
 		45F947D8214CFBEC002E4388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F947D7214CFBEC002E4388 /* AppDelegate.swift */; };
 		45F947DA214CFBEC002E4388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F947D9214CFBEC002E4388 /* ViewController.swift */; };
 		45F947DD214CFBEC002E4388 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45F947DB214CFBEC002E4388 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4524BAE021709693003582A0 /* soundBtn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = soundBtn.wav; sourceTree = SOURCE_ROOT; };
 		45F947D4214CFBEC002E4388 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45F947D7214CFBEC002E4388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45F947D9214CFBEC002E4388 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		45F947D6214CFBEC002E4388 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				4524BAE021709693003582A0 /* soundBtn.wav */,
 				45F947D7214CFBEC002E4388 /* AppDelegate.swift */,
 				45F947D9214CFBEC002E4388 /* ViewController.swift */,
 				45F947DB214CFBEC002E4388 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45F947E2214CFBEC002E4388 /* LaunchScreen.storyboard in Resources */,
+				4524BAE121709693003582A0 /* soundBtn.wav in Resources */,
 				45F947DF214CFBEC002E4388 /* Assets.xcassets in Resources */,
 				45F947DD214CFBEC002E4388 /* Main.storyboard in Resources */,
 			);
