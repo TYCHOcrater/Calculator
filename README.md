@@ -1,5 +1,7 @@
 # Calculator
 
+calculator ios application made with swift in xcode in minimalistic theme 
+
 # what i learned
 + write simple math operations with swift
 + integrate UIButtons and sounds
